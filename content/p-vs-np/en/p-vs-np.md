@@ -92,7 +92,7 @@ An example of such a problem is Checkers with a rule that pieces can never move 
 If we can quickly verify the solution to a problem, then the problem is in NP. However, finding the solution might require exponential resources.
 
 Any problem whose proposed solution (witness) can be quickly verified as correct is an NP problem. If the problem also has an algorithm for finding the solution in polynomial time, then it is a P problem. All P problems are NP problems, but it is extremely unlikely that all NP problems are also P problems.
-    
+
 Examples of problems in NP. These are explained in more detail below:
 - Computing the solution to a Sudoku puzzle — verifying the proposed solution to a Sudoku puzzle.
 - Computing the 3-coloring of a map (if it exists) — verifying a proposed 3-coloring of a map.
@@ -140,11 +140,11 @@ However, if someone solves a three-coloring, it is easy to verify their solution
 The table below summarizes the computational resources required for each class of problem:
 
 
-| Category | Compute Time | Verification Time |
-| --- | --- | --- |
-| P | Must be polynomial or better | Must be polynomial or better
-| NP | No Requirement | Must be polynomial or better |
-| PSPACE | No Requirement | No Requirement |
+| Category | Compute Time                 | Verification Time            |
+| -------- | ---------------------------- | ---------------------------- |
+| P        | Must be polynomial or better | Must be polynomial or better |
+| NP       | No Requirement               | Must be polynomial or better |
+| PSPACE   | No Requirement               | No Requirement               |
 
 #### Hierarchy of Difficulty between P, NP, and PSPACE
 Any problem that requires exponential resources to verify the witness for is a PSPACE (or harder problem). If one has exponential resources to verify witnesses for PSPACE problems, that person can trivially compute solutions for any P or NP problem. Therefore, all P and NP problems are a subset of PSPACE problems, as illustrated in the figure below.
@@ -235,12 +235,12 @@ The column $A > B$ can be modeled with the expression $A ∧ ¬B$, which returns
 
 Now consider a table that expresses $A = B$:
 
-| A | B | A = B |
-| --- | --- | --- |
-| 0 | 0 | 1 |
-| 0 | 1 | 0 |
-| 1 | 0 | 0 |
-| 1 | 1 | 1 |
+| A   | B   | A = B |
+| --- | --- | ----- |
+| 0   | 0   | 1     |
+| 0   | 1   | 0     |
+| 1   | 0   | 0     |
+| 1   | 1   | 1     |
 
 The column $A = B$ can be modeled with the expression $(A ∧ B) ∨ ¬(A ∨ B)$. $(A ∧ B)$ returns true when $A = 1$ and $B = 1$ and $¬(A ∨ B)$ returns true when $A$ and $B$ are both zero.
 

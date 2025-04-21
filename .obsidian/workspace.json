@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "fb500f17ae41f83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fb2f7284254b31",
+        "type": "tabs",
+        "dimension": 58.01815431164902,
+        "children": [
+          {
+            "id": "819859a0d5dc38aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "table-of-contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "table-of-contents"
+            }
+          },
+          {
+            "id": "9e28029720c68b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/finite-fields/en/finite-fields.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "finite-fields"
+            }
+          },
+          {
+            "id": "d8b9d0fe11577a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/set-theory/en/set-theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "set-theory"
+            }
+          },
+          {
+            "id": "7b68a8d7263211fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/abstract-algebra/en/abstract-algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "abstract-algebra"
+            }
+          },
+          {
+            "id": "58a5f61eba241372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/group-theory/en/group-theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "group-theory"
+            }
+          },
+          {
+            "id": "539592f7b121ac79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/homomorphisms/en/homomorphisms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homomorphisms"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fbaa3e46993402c4",
+        "type": "tabs",
+        "dimension": 41.98184568835098,
+        "children": [
+          {
+            "id": "41edc0093c65350c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/p-vs-np/en/p-v-np-notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "p-v-np-notes"
+            }
+          },
+          {
+            "id": "c6220427e9df1f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/finite-fields/en/finite-fields-notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "finite-fields-notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "768c85b2bf8ebea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17b410b564e17d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df910a5c5f9cbb4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fe7ce5897c87e6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4985ff7aa1d9d628",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "401910b49ecd6381",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac7c6dfad881f085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030aa06063e15b98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/finite-fields/en/finite-fields-notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for finite-fields-notes"
+            }
+          },
+          {
+            "id": "1f743f7b4ae89f4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/finite-fields/en/finite-fields-notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from finite-fields-notes"
+            }
+          },
+          {
+            "id": "3a8f0b80acd1901b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee467fc3f2576fa0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/finite-fields/en/finite-fields-notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of finite-fields-notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6220427e9df1f2b",
+  "lastOpenFiles": [
+    "content/finite-fields/en/finite-fields.md",
+    "content/arithmetic-circuit/en/arithmetic-circuit.md",
+    "content/finite-fields/en/finite-fields-notes.md",
+    "content/p-vs-np/en/p-v-np-notes.md",
+    "table-of-contents.md",
+    "content/arithmetic-circuit/en/arithmetic-circuit-notes.md",
+    "content/abstract-algebra/en/abstract-algebra.md",
+    "content/group-theory/en/group-theory.md",
+    "content/homomorphisms/en/homomorphisms.md",
+    "content/set-theory/en/set-theory.md",
+    "content/p-vs-np/en/p-vs-np.md",
+    "README.md"
+  ]
+}
